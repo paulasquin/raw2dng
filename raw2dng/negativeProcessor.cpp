@@ -37,7 +37,7 @@
 #include <zlib.h>
 
 #include <exiv2/image.hpp>
-#include <exiv2/xmp_exiv2.hpp>
+#include <exiv2/xmp.hpp>
 #include <libraw/libraw.h>
 
 const char* getDngErrorMessage(int errorCode) {

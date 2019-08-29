@@ -21,6 +21,7 @@
 #include "negativeProcessor.h"
 
 #include <string>
+#include <functional>
 
 #include "dng_auto_ptr.h"
 #include "dng_preview.h"
